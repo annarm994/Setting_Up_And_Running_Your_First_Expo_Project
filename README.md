@@ -28,7 +28,7 @@ Make sure you have met the following requirements:
     ```bash
     expo init my-new-project
     ```
-3. Follow the prompts to choose a template (e.g., "blank").
+3. Follow the prompts to choose a template.
 4. Navigate to the project directory:
     ```bash
     cd my-new-project
